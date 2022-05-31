@@ -1,12 +1,12 @@
 import React from 'react'
 import Link from 'next/link'
-import {BsBagCheckFill} from 'react-icons/bs'
+import {BsBagXFill} from 'react-icons/bs'
 const canceled = () => {
   return (
     <div className='success-wrapper'>
         <div className='success'>
             <p className='icon'>
-                <BsBagCheckFill/>
+                <BsBagXFill/>
             </p>
             <h2>You cancelled your order!</h2>
            
