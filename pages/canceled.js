@@ -5,7 +5,7 @@ const canceled = () => {
   return (
     <div className='success-wrapper'>
         <div className='success'>
-            <p className='icon'>
+            <p className='icon1'>
                 <BsBagXFill/>
             </p>
             <h2>You cancelled your order!</h2>

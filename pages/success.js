@@ -15,7 +15,7 @@ const Success = () => {
   return (
     <div className='success-wrapper'>
         <div className='success'>
-            <p className='icon'>
+            <p className='icon1'>
                 <BsBagCheckFill/>
             </p>
             <h2>Thank you for order!</h2>
